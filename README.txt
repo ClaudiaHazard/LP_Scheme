@@ -1,4 +1,3 @@
-
 Instrucciones:
 -Debes abrir la carpeta.
 -Luego abrir cualquiera de los problemas con el programa DrRacket.
@@ -10,3 +9,4 @@ Se decidieron realizar las funciones 1.Segmentador de Listas, 2.Codificador y D
 La razon de ello fue el azar.
 
 
+Claudia Hazard.  Jonathan Mendoza.        
